@@ -1,0 +1,2 @@
+C:\Users\likp\documents\visual studio 2015\Projects\WebApplication1\artifacts\obj\WebApplication1\Debug\WebApplication1.xprojResolveAssemblyReference.cache
+C:\Users\likp\Source\Repos\aspnettest\artifacts\obj\WebApplication1\Debug\WebApplication1.xprojResolveAssemblyReference.cache

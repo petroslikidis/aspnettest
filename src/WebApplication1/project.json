@@ -1,0 +1,34 @@
+﻿{
+  "commands": {
+    "web": "Microsoft.AspNet.Server.Kestrel"
+  },
+  "compilationOptions": {
+    "emitEntryPoint": true
+  },
+  "dependencies": {
+    "Microsoft.AspNet.IISPlatformHandler": "1.0.0-rc1-final",
+    "Microsoft.AspNet.Server.Kestrel": "1.0.0-rc1-final",
+    "Microsoft.AspNet.Mvc": "6.0.0-rc1-final"
+  },
+  "exclude": [
+    "wwwroot",
+    "node_modules"
+  ],
+  "frameworks": {
+    "dnx451": {
+      "dependencies": {
+        "TestLib3": "1.0.0-*"
+      }
+    },
+    "dnxcore50": {
+      "dependencies": {
+        "TestLib3": "1.0.0-*"
+      }
+    }
+  },
+  "publishExclude": [
+    "**.user",
+    "**.vspscc"
+  ],
+  "version": "1.0.0-*"
+}

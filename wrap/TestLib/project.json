@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net451": {
+      "wrappedProject": "../../TestLib/TestLib.csproj",
+      "bin": {
+        "assembly": "../../TestLib/obj/{configuration}/TestLib.dll",
+        "pdb": "../../TestLib/obj/{configuration}/TestLib.pdb"
+      }
+    }
+  }
+}

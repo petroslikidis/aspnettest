@@ -1,0 +1,15 @@
+{
+  "supports": {},
+  "dependencies": {},
+  "frameworks": {
+    ".NETPortable,Version=v4.5,Profile=Profile7": {},
+    "net45+win+MonoAndroid10+Xamarin.iOS10+MonoTouch10": {
+      "wrappedProject": "TestLib3.csproj",
+      "bin": {
+        "assembly": "obj/{configuration}/TestLib3.dll",
+        "pdb": "obj/{configuration}/TestLib3.pdb"
+      }
+    }
+  },
+  "version": "1.0.0-*"
+}
